@@ -1,0 +1,31 @@
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\bin\Debug\Tela principal.exe.config
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\bin\Debug\Tela principal.exe
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\bin\Debug\Tela principal.pdb
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela principal.csprojResolveAssemblyReference.cache
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela_principal.Form1.resources
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela_principal.Form2.resources
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela_principal.Properties.Resources.resources
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela principal.csproj.GenerateResource.Cache
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela principal.exe
+d:\meus documentos\visual studio 2013\Projects\Tela principal\Tela principal\obj\Debug\Tela principal.pdb
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\bin\Debug\Tela principal.exe.config
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela principal.exe
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela principal.pdb
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\bin\Debug\Tela principal.exe
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\bin\Debug\Tela principal.pdb
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela principal.csprojResolveAssemblyReference.cache
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela_principal.Form1.resources
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela_principal.Form2.resources
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela_principal.Properties.Resources.resources
+D:\Documentos\Área de Trabalho\Tela principal\Tela principal\obj\Debug\Tela principal.csproj.GenerateResource.Cache
+F:\VisualStudioSetembro02\Tela principal\Tela principal\bin\Debug\Tela principal.exe.config
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela principal.exe
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela principal.pdb
+F:\VisualStudioSetembro02\Tela principal\Tela principal\bin\Debug\Tela principal.exe
+F:\VisualStudioSetembro02\Tela principal\Tela principal\bin\Debug\Tela principal.pdb
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela_principal.Form1.resources
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela_principal.Form2.resources
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela_principal.Properties.Resources.resources
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela principal.csproj.GenerateResource.Cache
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela principal.csprojAssemblyReference.cache
+F:\VisualStudioSetembro02\Tela principal\Tela principal\obj\Debug\Tela principal.csproj.CoreCompileInputs.cache
